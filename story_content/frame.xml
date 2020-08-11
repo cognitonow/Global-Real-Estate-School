@@ -1224,8 +1224,18 @@
           <links>
             <slidelink slideid="_player.6C8ANGkufdi.6GeYpmcEWJs" displaytext="Intro Vid" expand="false" type="slide" />
             <slidelink slideid="_player.6C8ANGkufdi.65qKVkcmBtO" displaytext="Intro" expand="false" type="slide" />
-            <slidelink slideid="_player.6C8ANGkufdi.6M86j87p4Mv" displaytext="Help" expand="false" type="slide" />
-            <slidelink slideid="_player.6C8ANGkufdi.5j4QOX8hrY7" displaytext="Q1" expand="false" type="slide" />
+            <slidelink slideid="_player.6C8ANGkufdi.5j4QOX8hrY7" displaytext="Full screen" expand="false" type="slide" />
+            <slidelink slideid="_player.6C8ANGkufdi.670iT5pmo9P" displaytext="Haf Screen R" expand="false" type="slide" />
+            <slidelink slideid="_player.6C8ANGkufdi.6H1sB5YD4UX" displaytext="Haf Screen L" expand="false" type="slide" />
+            <slidelink slideid="_player.6C8ANGkufdi.5ZLOyRQHaEA" displaytext="Full screen" expand="false" type="slide" />
+            <slidelink slideid="_player.6C8ANGkufdi.6oBrtqmWziI" displaytext="side by side layout" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5mMOfqtzDCC" displaytext="Question Bank" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5mMOfqtzDCC.5ZkOj5gpegw" displaytext="Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.5mMOfqtzDCC.6MoqtHPxWJZ" displaytext="Multiple Select" expand="false" type="slide" />
+            <slidelink slideid="_player.5mMOfqtzDCC.5WhPloVF2Xu" displaytext="Full screen" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
